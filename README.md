@@ -1,1 +1,1 @@
-# c36n-p
+# C36-teacher-reference
